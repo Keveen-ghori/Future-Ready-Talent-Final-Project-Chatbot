@@ -1,4 +1,4 @@
-<b>Create a Knowledge Base</b>
+to<b>Create a Knowledge Base</b>
 <br><br>
 A knowledge base (KB) is the information hub the chatbot will scan for relevant information when answering questions. 
 <br>Head over to qnamaker.ai to start this process.<br>
@@ -15,36 +15,3 @@ After deploying and connecting your QnA service, go through the rest of the KB s
 Screenshot
 ![image](https://user-images.githubusercontent.com/64722488/148645511-589a1518-1717-49d5-8cf9-bc5c476c07be.png)
 
-
-Enable the multi-turn extraction from URLs, .pdf or .docx files option. This option allows your chatbot to ask follow-up questions. It also allows the chatbot to scan entire pages for later feedback to the user.
-
-Under the Default answer text box, pick any answer you want your bot to use if it cannot find an answer.
-
-After a couple other basic prompts, you will be given a Chit-chat option for you to tailor your bot to fit a particular style of language or mood.
-<br><br>
-Enable the multi-turn extraction from URLs, .pdf or .docx files option. This option allows your chatbot to ask follow-up questions. It also allows the chatbot to scan entire pages for later feedback to the user.
-
-Under the Default answer text box, pick any answer you want your bot to use if it cannot find an answer.
-
-After a couple other basic prompts, you will be given a Chit-chat option for you to tailor your bot to fit a particular style of language or mood.
-
-Screenshot
-Enable the multi-turn extraction from URLs, .pdf or .docx files option. This option allows your chatbot to ask follow-up questions. It also allows the chatbot to scan entire pages for later feedback to the user.
-
-Under the Default answer text box, pick any answer you want your bot to use if it cannot find an answer.
-
-After a couple other basic prompts, you will be given a Chit-chat option for you to tailor your bot to fit a particular style of language or mood.
-
-Screenshot
-
-Next, click Create your KB to see the contents of your KB in three sections: Context, Question, and Answer.
-
-Screenshot
-
-Under the question section you can add your own phrasing, add follow-up prompts to make your bot more unique, and direct your chatbot to provide a link to another page if it can't find an answer.
-
-Next, click Create your KB to see the contents of your KB in three sections: Context, Question, and Answer.
-
-Screenshot
-
-Under the question section you can add your own phrasing, add follow-up prompts to make your bot more unique, and direct your chatbot to provide a link to another page if it can't find an answer.
