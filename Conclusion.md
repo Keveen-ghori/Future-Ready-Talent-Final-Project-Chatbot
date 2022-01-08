@@ -1,0 +1,1 @@
+Now you have a sense of the process of creating a QnA bot within Microsoft’s Azure service. There are a lot more options that you can work with if you are a developer, such as creating bots locally using JavaScript or Python-based templates.
